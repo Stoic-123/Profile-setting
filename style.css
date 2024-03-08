@@ -71,7 +71,7 @@ nav {
 input {
   cursor: pointer;
   width: 230px;
-  padding-left: 30px;
+  padding-left: 33px;
   height: 32px;
   border-radius: 3px;
   border: 1px solid gray;
@@ -82,7 +82,7 @@ input {
 
 #src-btn {
   position: absolute;
-  right: 24.6%;
+  right: 24%;
   padding-top: 8px;
   font-size: 13px;
   z-index: 1;
